@@ -15,6 +15,10 @@ ul.b {
   list-style-type: square;
 }
 
+h1{
+  color:green;
+}
+
 ol.c {
   list-style-type: upper-roman;
 }

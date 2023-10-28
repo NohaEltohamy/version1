@@ -1,4 +1,4 @@
-console.log("Text");
+console.log("Text conflict");
 element.addEventListener("click", myFunction);
 
 function myFunction() {
